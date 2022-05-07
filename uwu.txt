@@ -1,6 +1,6 @@
 # Edit only this section!
-$TimesToRun = 2
-$RunTimeP = 1
+$TimesToRun = 5
+$RunTimeP = 20
 $From = "rpduino@gmail.com"
 $Pass = "db789rpca!"
 $To = "rpduino@gmail.com"
